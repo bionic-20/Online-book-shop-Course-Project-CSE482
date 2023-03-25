@@ -1,0 +1,75 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color: antiquewhite;  
+    font-family: 'Arial';
+    background-image: url('https://www.realsimple.com/thmb/KrGb42aamhHKaMzWt1Om7U42QsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/great-books-for-anytime-2000-4ff4221eb1e54b659689fef7d5e265d5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #23463f;  
+        border-radius: 15px ;  
+          
+}  
+p{
+    text-align: center;  
+    color: antiquewhite;  
+    padding: 32px;
+
+}
+h2{  
+    text-align: center;  
+    color: darkslategrey;  
+    padding: 20px;  
+}  
+label{  
+    color: burlywood;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log {  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
+.log:hover{
+    background-color: red;
+}
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: wheat;  
+}  
+p {
+  background-image: url('https://www.realsimple.com/thmb/KrGb42aamhHKaMzWt1Om7U42QsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/great-books-for-anytime-2000-4ff4221eb1e54b659689fef7d5e265d5.jpg');
+}
